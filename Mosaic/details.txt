@@ -1,0 +1,4 @@
+Project:
+Using Computer Vision theory and having a set of 500 images(resolution: 40x28) that illustrates a different flower,
+this program gets, as input, the path of the a color image and creates, based on the color image, a mosaic composed of some images
+of the set of flower images in order to look like to the original color image.
